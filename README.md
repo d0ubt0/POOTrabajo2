@@ -1,6 +1,6 @@
 # POO Trabajo2
 
-## Sebastian Pabon Nuñez
+### Sebastian Pabon Nuñez
 
 Repositorio del segundo trabajo de Programacion orientadas a objetos.
 
