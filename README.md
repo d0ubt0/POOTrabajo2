@@ -1,5 +1,6 @@
-# POO-Trabajo2
+# POO Trabajo2
 
-Repositorio del segundo trabajo de POO unal.
- Sebastian Pabon Nuñez
+## Sebastian Pabon Nulez
+
+Repositorio del segundo trabajo de Programacion orientadas a objetos.
 
